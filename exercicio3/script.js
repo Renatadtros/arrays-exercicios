@@ -33,4 +33,4 @@ arrayMisto.splice(1,1);
 console.log (arrayMisto , arrayMistoCopia);//splice remove o número que está no índice (x,1) do array seguido da quantidade de item (mostrado ali como valor 1) a ser removido da array. 
 
 //d) Refaça os testes sem utilizar o slice, e analise o resultado e diga o que percebeu:*/
-//Resposta:todos os arrays ficaram com ersultados iguais, original e cópia, mesmo as copias nao tendo sofrido alteração.
+//Resposta:todos os arrays ficaram com eresultados iguais, original e cópia, mesmo as copias nao tendo sofrido alteração.
